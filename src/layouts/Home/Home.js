@@ -73,6 +73,7 @@ export const Home = () => {
     <div className={styles.home}>
       <Helmet>
       <title>Aditya sai Lella | Developer</title>
+       <script defer data-domain="tomasps.com" src="https://plausible.tomasps.com/js/script.js"></script>
     </Helmet>
       <Meta
         title="Software Developer"
